@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">10118426_Tugas1</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnRegist">REGISTER</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="txtNama">Nama : Kinanti Trimutiara Putri Setiawan</string>
+    <string name="txtKelas">Kelas : IF-10</string>
+    <string name="txtNim">NIM : 10118426</string>
+    <string name="txtDeskripsi">Saya adalah seorang anak dari 4 bersaudara yang berasal dari tanah sunda. Berkuliah di UNIKOM dan berasal dari Padalarang, berangkat ke kampus naik kereta</string>
+    <string name="hintFullname">Fullname</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintPhone">Phone</string>
+    <string name="txtRegister">REGISTER</string>
+</resources>
